@@ -10,7 +10,7 @@ h1, h2 {
     color:#66BFBf;
 }
 .upper-cont {
-    height:100vh;
+    height:780px;
     margin:auto;
     overflow:hidden;
     position:relative;
@@ -74,7 +74,7 @@ section {
     border-radius:9px;
     background:#f1f1f4;
     margin:20px auto;
-    width:60vw;
+    width:80vw;
     text-align:justify;
     padding:5px;
 }
