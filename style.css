@@ -118,3 +118,13 @@ section h3 {
     display:inline-block;
     padding:10px 15px;
 }
+.word {
+    font-family:Montserrat, sans-serif;
+    font-size:30px;
+    color:white;
+    width: 60vw;
+    margin: 40px auto ;
+    border-radius: 9px;
+    padding: 20px;
+    background:mediumseagreen;
+}
