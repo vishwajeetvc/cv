@@ -127,6 +127,7 @@ hr {
     margin:10px auto;
     color:red;
     font-weight:bold;
+    box-shadow:4px 4px 3px lightgray;
 }
 .xx a {
     text-decoration:none;
